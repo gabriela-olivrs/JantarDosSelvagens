@@ -10,7 +10,7 @@ tempo);
 • Selvagens não podem se servir se o caldeirão estiver vazio;
 <br>
 • O cozinheiro só pode encher o caldeirão quando ele estiver vazio.
-<br>
-<img align=rigth" alt="Gabi" height="200" width="200" src="https://thumbs.dreamstime.com/b/caldeir%C3%A3o-com-p%C3%A9-humano-49526595.jpg">
+
+<img align=r"rigth" alt="Gabi" height="200" width="200" src="https://thumbs.dreamstime.com/b/caldeir%C3%A3o-com-p%C3%A9-humano-49526595.jpg">
 
 
